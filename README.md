@@ -60,8 +60,6 @@ and 'wins!'
 
 Shown below is an example where I managed to get the best of a Random player:
 
-![game-over](game-over.png)
-
 ### Relevant Resources
 **Alpha-Beta**
 
